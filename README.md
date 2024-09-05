@@ -4,6 +4,9 @@
 
 StreamScape is a web application inspired by Netflix, designed to deliver a personalized and engaging media streaming experience. It allows users to browse, search, and watch a wide variety of movies and TV shows.
 
+## Demo Here
+https://github.com/user-attachments/assets/9eac5e84-e956-4475-940b-e1b76cbb9976
+
 
 
 ## Features
